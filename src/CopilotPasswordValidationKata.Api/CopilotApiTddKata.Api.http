@@ -1,0 +1,6 @@
+@CopilotApiTddKata.Api_HostAddress = http://localhost:5220
+
+GET {{CopilotApiTddKata.Api_HostAddress}}/health
+Accept: application/json
+
+###
